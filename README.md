@@ -14,8 +14,8 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 
 ### An Overview of the Discrete Logarithm Problem in Cryptography
 - First research experience, including the conception and implementation of a review paper.
-- Learned to read, understand, and draw conclusions from research papers.
-- Gained insights into progress in public-key cryptography research.
+- Learned to **read, understand, and draw conclusions from research papers**.
+- Gained insights into progress in **public-key cryptography** research.
 - Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
 - Accepted and Presented in [ICACA-2024](https://csikolkata.org/ICACA2024/). <br>
 <div style="text-align: center;">
@@ -24,9 +24,9 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 <br>
 
 ### AgroGenie: A smart approach to agriculture using Machine Learning
-- This research involves the utilization of a Machine-learning-based approach to analyze the values of several parameters influencing crop growth. It then accepts a novel set of input parameters and recommends the most probable crops that can be cultivated. 
-- Adequate preprocessing methods have been applied to ensure the optimum removal of partiality from data. The ML models have been compared for their performance using a well-accepted validation measure, with Logistic Regression achieving a 99.6% accuracy. 
-- Then, crops with similar features have been clustered to provide a more flexible farming option for the farmer. <br>
+- This research involves the utilization of a Machine-learning-based approach to analyze the values of several parameters influencing crop growth. It then accepts a novel set of input parameters and recommends the **most probable crops that can be cultivated**. 
+- Adequate preprocessing methods have been applied to ensure the optimum removal of partiality from data. The ML models have been compared for their performance using a well-accepted validation measure, with **Random Forest** achieving a **99.6%** accuracy. 
+- Then, crops with similar features have been **clustered** to provide more **flexible farming options** for the farmer. <br>
 - Accepted and Presented in [ICISA-2024](https://sites.google.com/view/icisa2024). <br>
 <div style="text-align: center;">
 <img src="assets/agrogenieart.jfif" width="150" height="150">
