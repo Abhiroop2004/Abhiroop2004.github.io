@@ -13,7 +13,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 - *1. An Overview of the Discrete Logarithm Problem in Cryptography*
   - First research experience, including the conception and implementation of a review paper.
   - Learned to read, understand, and draw conclusions from research papers.
-  - Gained insights into public-key cryptography research progress.
+  - Gained insights into progress in public-key cryptography research.
   - Coded the entire paper in LaTeX.
   - Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
   - **Accepted and Presented in ICACA-2024**.
