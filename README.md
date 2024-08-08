@@ -6,7 +6,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 
 ## 🎓 Academic Details
 
-- **Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**  [Institute of Engineering & Management, Kolkata (2022-26)](https://iem.edu.in/)  
+- **Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** at [IEM Kolkata (2022-26)](https://iem.edu.in/)  
   - GPA: 9.48
  
 ## 👨🏻‍🔬 Projects
