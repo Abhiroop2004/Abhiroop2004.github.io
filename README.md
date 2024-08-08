@@ -22,6 +22,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 <img src="assets/cryptoart.jfif" width="150" height="150">
 </div>
 <br>
+
 ### AgroGenie: A smart approach to agriculture using Machine Learning
 - This research involves the utilization of a Machine-learning-based approach to analyze the values of several parameters influencing crop growth. It then accepts a novel set of input parameters and recommends the most probable crops that can be cultivated. 
 - Adequate preprocessing methods have been applied to ensure the optimum removal of partiality from data. The ML models have been compared for their performance using a well-accepted validation measure, with Logistic Regression achieving a 99.6% accuracy. 
