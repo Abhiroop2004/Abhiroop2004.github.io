@@ -17,5 +17,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
   - Learned to read, understand, and draw conclusions from research papers.
   - Gained insights into progress in public-key cryptography research.
   - Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
-  - Accepted and Presented in [ICACA-2024](https://sites.google.com/view/icisa2024).
+  - Accepted and Presented in [ICACA-2024](https://sites.google.com/view/icisa2024). <br>
+<div style="text-align: center;">
 <img src="assets/cryptoart.jfif" width="100" height="100">
+</div>
