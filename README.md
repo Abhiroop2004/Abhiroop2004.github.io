@@ -13,11 +13,19 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 ## 👨🏻‍🔬 Projects
 
 ### An Overview of the Discrete Logarithm Problem in Cryptography
-  - First research experience, including the conception and implementation of a review paper.
-  - Learned to read, understand, and draw conclusions from research papers.
-  - Gained insights into progress in public-key cryptography research.
-  - Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
-  - Accepted and Presented in [ICACA-2024](https://sites.google.com/view/icisa2024). <br>
+- First research experience, including the conception and implementation of a review paper.
+- Learned to read, understand, and draw conclusions from research papers.
+- Gained insights into progress in public-key cryptography research.
+- Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
+- Accepted and Presented in [ICACA-2024](https://sites.google.com/view/icisa2024). <br>
 <div style="text-align: center;">
-<img src="assets/cryptoart.jfif" width="100" height="100">
+<img src="assets/cryptoart.jfif" width="150" height="150">
+</div>
+
+### AgroGenie: A smart approach to agriculture using Machine Learning
+- This research involves the utilization of a Machine-learning-based approach to analyze the values of several parameters influencing crop growth. It then accepts a novel set of input parameters and recommends the most probable crops that can be cultivated. 
+- Adequate preprocessing methods have been applied to ensure the optimum removal of partiality from data. The ML models have been compared for their performance using a well-accepted validation measure, with Logistic Regression achieving a 99.6% accuracy. 
+- Then, crops with similar features have been clustered to provide a more flexible farming option for the farmer. <br>
+<div style="text-align: center;">
+<img src="assets/agrogenieart.jfif" width="150" height="150">
 </div>
