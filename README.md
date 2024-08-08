@@ -1,4 +1,4 @@
-## 👨‍🎓About me
+## 👨‍🎓 About me
 - I am a second-year Computer Science undergraduate at [IEM, Kolkata](https://iem.edu.in/), and I am strongly interested in cryptography and machine learning. <br>
 - Currently, I am a Summer Intern at [Presidency University](https://presiuniv.ac.in/web/) under [Prof. Avishek Adhikary](https://www.presiuniv.ac.in/web/staff.php?staffid=424), working with visual cryptography and Secret Sharing. <br>
 - Additionally, I serve as a Research Assistant at the Centre of Excellence for Cloud Computing & IoT under IEDC CSE, working with project Agrogenie, which involves exploring data science in agriculture. <br>
