@@ -1,2 +1,3 @@
-# Abhiroop2004.github.io
-A simple portfolio website
+# Student
+### Education
+Bachelor's in Computer Science and Engineering, Artificial Intelligence and Machine Learning 
