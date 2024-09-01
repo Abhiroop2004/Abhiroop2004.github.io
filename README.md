@@ -34,7 +34,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 <br>
 
 ### IoT-based CO2 level monitoring system
-- Worked in a team of 6 designing an IoT-enabled CO2 monitoring system using components such as NodeMCU-esp8266, mq135(gas sensor), & dht-11(temperature & humidity Sensor). Used ThingSpeak to plot data from the device
-- Provides real-time CO2 level monitoring in ppm, and alarms the user through a buzzer and LED light when the CO2 level exceeds 500 ppm.
+- Worked in a team of 6 designing an IoT-enabled CO2 monitoring system using components such as NodeMCU-**esp8266**, **mq135**(gas sensor), & **dht-11**(temperature & humidity Sensor). Used **ThingSpeak** to plot data from the device.
+- Provides **real-time CO2 level monitoring** in ppm, and **alarms the user** through a buzzer and LED light when the CO2 level exceeds 500 ppm.
 - I worked on writing and debugging the code in Arduino IDE and calibrating the mq135.
 - Link to [ArXiv](https://arxiv.org/abs/2308.03780) Article
