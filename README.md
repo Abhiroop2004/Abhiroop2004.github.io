@@ -8,7 +8,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 
 #### Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning) 
 [Institute of Engineering & Management, Kolkata](https://iem.edu.in/) - (2022-26)
-  - GPA: 9.48
+  - GPA: 9.46
  
 ## 👨🏻‍🔬 Projects
 
@@ -32,3 +32,9 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 <img src="assets/agrogenieart.jfif" width="150" height="150">
 </div>
 <br>
+
+### IoT-based CO2 level monitoring system
+- Worked in a team of 6 in designing an IoT-enabled CO2 monitoring system using components such as NodeMCU-esp8266, mq135(gas sensor), & dht-11(temperature & humidity Sensor). Used ThingSpeak to plot data from the device
+- Provides real-time CO2 level monitoring in ppm, and alarms the user through a buzzer and LED light when the CO2 level exceeds 500 ppm.
+- Worked on writing and perfecting the code and calibrating mq135
+- Link to [ArXiv](https://arxiv.org/abs/2308.03780) Article
