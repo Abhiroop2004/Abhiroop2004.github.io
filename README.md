@@ -12,7 +12,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
  
 ## 👨🏻‍🔬 Projects
 
-### Aviary.AI - I-powered Bird Encyclopedia Chatbot
+### Aviary.AI - An AI-powered Bird Encyclopedia Chatbot
 - Developed an AI-driven chatbot using Google’s Gemini api key and Langchain framework to provide detailed bird-related information.
 - Integrated Wikipedia API and custom bird encyclopedia PDFs for accurate and diverse data sources using RAG (Retrieval-augmented generation).
 - Code @ [Github](https://github.com/Abhiroop2004/Aviary.AI.git)
