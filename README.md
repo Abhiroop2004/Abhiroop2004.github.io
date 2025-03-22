@@ -1,5 +1,5 @@
 ## 👨‍🎓 About me
-- I am a  3<sup>rd</sup>-year Computer Science undergraduate at [IEM, Kolkata](https://iem.edu.in/), and I am strongly interested in cryptography and machine learning. <br>
+- I am a  3<sup>rd</sup>-year Computer Science undergraduate at [IEM, Kolkata](https://iem.edu.in/), and I am strongly interested in Theoretical Computer Science and Cryptography. I am also interested in applications of Machine Learning in everyday problems. <br>
 - Currently, I am a Long-Term Project Student at [Presidency University](https://presiuniv.ac.in/web/) under [Prof. Avishek Adhikary](https://www.presiuniv.ac.in/web/staff.php?staffid=424), working with Visual Cryptography and Secret Image Sharing. <br>
 - Additionally, I serve as a Research Assistant at the [Centre of Excellence for Cloud Computing & IoT](https://iemc2iot.wixsite.com/home) under IEDC CSE, working with project Agrogenie, which involves exploring data science in agriculture. <br>
 Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
@@ -8,9 +8,18 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 
 #### Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning) 
 [Institute of Engineering & Management, Kolkata](https://iem.edu.in/) - (2022-26)
-  - GPA: 9.46
+  - GPA: 9.41
  
 ## 👨🏻‍🔬 Projects
+
+### Aviary.AI - I-powered Bird Encyclopedia Chatbot
+- Developed an AI-driven chatbot using Google’s Gemini api key and Langchain framework to provide detailed bird-related information.
+- Integrated Wikipedia API and custom bird encyclopedia PDFs for accurate and diverse data sources using RAG (Retrieval-augmented generation).
+- Code @ [Github](https://github.com/Abhiroop2004/Aviary.AI.git)
+<div style="text-align: center;">
+<img src="assets/ birdenc.jpg" width="150" height="150">
+</div>
+<br>
 
 ### An Overview of the Discrete Logarithm Problem in Cryptography
 - First research experience, including the conception and implementation of a review paper.
