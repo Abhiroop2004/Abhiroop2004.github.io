@@ -1,7 +1,7 @@
 ## 👨‍🎓 About me
 - I am a  3<sup>rd</sup>-year Computer Science undergraduate at [IEM, Kolkata](https://iem.edu.in/), and I am strongly interested in Theoretical Computer Science and Cryptography. I am also interested in applications of Machine Learning in everyday problems. <br>
 - Currently, I am a Long-Term Project Student at [Presidency University](https://presiuniv.ac.in/web/) under [Prof. Avishek Adhikary](https://www.presiuniv.ac.in/web/staff.php?staffid=424), working with Visual Cryptography and Secret Image Sharing. <br>
-- Additionally, I serve as a Research Assistant at the [Centre of Excellence for Cloud Computing & IoT](https://iemc2iot.wixsite.com/home) under IEDC CSE, working with project Agrogenie, which involves exploring data science in agriculture. <br>
+- Additionally, I served as a Research Assistant at the [Centre of Excellence for Cloud Computing & IoT](https://iemc2iot.wixsite.com/home) under IEDC CSE, working with project Agrogenie, which involves exploring data science in agriculture. <br>
 Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
 
 ## 🎓 Academic Details
