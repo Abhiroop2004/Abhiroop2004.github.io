@@ -17,7 +17,7 @@ Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the 
 - Integrated Wikipedia API and custom bird encyclopedia PDFs for accurate and diverse data sources using RAG (Retrieval-augmented generation).
 - Code @ [Github](https://github.com/Abhiroop2004/Aviary.AI.git)
 <div style="text-align: center;">
-<img src="assets/ birdenc.jpg" width="150" height="150">
+<img src="assets/birdenc.jpg" width="150" height="150">
 </div>
 <br>
 
