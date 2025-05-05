@@ -3,22 +3,16 @@
 - Currently, I am a Long-Term Project Student under [Prof. Avishek Adhikary](https://www.presiuniv.ac.in/web/staff.php?staffid=424) at [Presidency University](https://presiuniv.ac.in/web/), working with integrating segmentation and inpainting techniques from computer vision with Secret Image Sharing. <br>
 Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
 
-## Academic Details
-
-#### Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning) 
-[Institute of Engineering & Management, Kolkata](https://iem.edu.in/) - (2022-26)
-  - GPA: 9.41
-
 ## Selected Papers
-### [An Overview of the Discrete Logarithm Problem in Cryptography](https://link.springer.com/chapter/10.1007/978-981-97-4799-3_10)
+#### [An Overview of the Discrete Logarithm Problem in Cryptography](https://link.springer.com/chapter/10.1007/978-981-97-4799-3_10)
 A Sarkar, D Guha Roy, P Datta<br>
 International Conference on Advanced Computing and Applications 2024
 
-### [AgroGenie: A Smart Approach to Agriculture Using Machine Learning](https://link.springer.com/chapter/10.1007/978-981-97-9839-1_17)
+#### [AgroGenie: A Smart Approach to Agriculture Using Machine Learning](https://link.springer.com/chapter/10.1007/978-981-97-9839-1_17)
 A Sarkar, K Ganguly, S Ghosh, D Ghosh, S Saha, P Datta, DG Roy <br>
 International Conference on Information Science and Applications 2024
 
-### [Exploring IoT for real-time CO2 monitoring and analysis](https://arxiv.org/abs/2308.03780)
+#### [Exploring IoT for real-time CO2 monitoring and analysis](https://arxiv.org/abs/2308.03780)
 A Sarkar, D Ghosh, K Ganguly, S Ghosh, S Saha<br>
 arXiv preprint
 
