@@ -4,15 +4,15 @@
 Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
 
 ## Selected Papers
-[**An Overview of the Discrete Logarithm Problem in Cryptography**](https://link.springer.com/chapter/10.1007/978-981-97-4799-3_10)<br>
+[An Overview of the Discrete Logarithm Problem in Cryptography](https://link.springer.com/chapter/10.1007/978-981-97-4799-3_10)<br>
 A Sarkar, D Guha Roy, P Datta<br>
 International Conference on Advanced Computing and Applications 2024
 
-[**AgroGenie: A Smart Approach to Agriculture Using Machine Learning**](https://link.springer.com/chapter/10.1007/978-981-97-9839-1_17)<br>
+[AgroGenie: A Smart Approach to Agriculture Using Machine Learning](https://link.springer.com/chapter/10.1007/978-981-97-9839-1_17)<br>
 A Sarkar, K Ganguly, S Ghosh, D Ghosh, S Saha, P Datta, DG Roy <br>
 International Conference on Information Science and Applications 2024
 
-[**Exploring IoT for real-time CO2 monitoring and analysis**](https://arxiv.org/abs/2308.03780)<br>
+[Exploring IoT for real-time CO2 monitoring and analysis](https://arxiv.org/abs/2308.03780)<br>
 A Sarkar, D Ghosh, K Ganguly, S Ghosh, S Saha<br>
 arXiv preprint
 
