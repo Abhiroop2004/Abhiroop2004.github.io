@@ -1,10 +1,10 @@
 ## About Me
 
-I am a **3rd-year Computer Science undergraduate** (B.Tech in CSE – AI & ML) at the **Institute of Engineering & Management (IEM), Kolkata**. Currently preparing for GATE 2026. 🎯
+I am a **Final year Computer Science undergraduate** (B.Tech in CSE – AI & ML) at the Institute of Engineering & Management (IEM), Kolkata. Currently preparing for GATE 2026. 🎯
 
-My interests lie in **Applied Cryptography**, particularly Secure Multiparty Computation, and **Machine Learning for Earth & Climate Sciences** particularly with time-series data.
+My interests lie in **Applied Cryptography**, particularly Secure Multi Party Computation, and **Machine Learning for Earth & Climate Sciences** particularly with time-series data.
 
-Looking ahead, I aim to pursue **doctoral studies (Ph.D.)**, with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
+Looking ahead, I aim to pursue doctoral studies (Ph.D.), with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
 
 ---
 
@@ -12,17 +12,17 @@ Looking ahead, I aim to pursue **doctoral studies (Ph.D.)**, with the ultimate g
 
 **STAT-X: Short-term Atmospheric Temperature Forecasting using Machine Learning with Explainable-AI**
 *A. Sarkar, D. Guha Roy, P. Datta*
-**Theoretical and Applied Climatology**, Springer, 2025
+Theoretical and Applied Climatology, Springer, 2025
 DOI: [https://doi.org/10.1007/s00704-025-05693-8](https://doi.org/10.1007/s00704-025-05693-8)
 
 **AgroGenie: A Smart Approach to Agriculture Using Machine Learning**
 *A. Sarkar, K. Ganguly, S. Ghosh, D. Ghosh, S. Saha, P. Datta, D. Guha Roy*
-**Lecture Notes in Networks and Systems**, Springer, 2024
+Lecture Notes in Networks and Systems, Springer, 2024
 DOI: [https://doi.org/10.1007/978-981-97-9839-1_17](https://doi.org/10.1007/978-981-97-9839-1_17)
 
 **An Overview of the Discrete Logarithm Problem in Cryptography**
 *A. Sarkar, D. Guha Roy, P. Datta*
-**Lecture Notes in Networks and Systems**, Springer, 2024
+Lecture Notes in Networks and Systems, Springer, 2024
 DOI: [https://doi.org/10.1007/978-981-97-4799-3_10](https://doi.org/10.1007/978-981-97-4799-3_10)
 
 ---
