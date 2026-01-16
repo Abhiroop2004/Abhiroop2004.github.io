@@ -1,16 +1,10 @@
 ## About Me
 
-I am a **3rd-year Computer Science undergraduate** (B.Tech in CSE – AI & ML) at the **Institute of Engineering & Management (IEM), Kolkata**, with a strong academic focus on **Theoretical Computer Science, Cryptography**, and **Machine Learning for scientific applications**.
+I am a **3rd-year Computer Science undergraduate** (B.Tech in CSE – AI & ML) at the **Institute of Engineering & Management (IEM), Kolkata**. Currently preparing for GATE 2026. 🎯
 
-I am currently working as a **Research Apprenticeship student under Prof. Dr. Avishek Adhikary** (Department of Mathematics, **Presidency University, Kolkata**), where my work centers on **Visual Cryptography and Secret Image Sharing (SIS)**. My research involves:
+My interests lie in **Applied Cryptography**, particularly Secure Multiparty Computation, and **Machine Learning for Earth & Climate Sciences** particularly with time-series data.
 
-* Re-implementing classical SIS and Visual Cryptography schemes,
-* Designing **lossless (k, n) and (t, k, n) Shamir-based image secret sharing** using finite-field arithmetic,
-* Extending SIS to **Regional Secret Image Sharing** by integrating **image segmentation and deep-learning-based inpainting (LaMa)**.
-
-Alongside cryptography, I actively work on **machine learning for Earth and climate sciences**, particularly **short-term temperature forecasting with explainable and probabilistic ML models**.
-
-Looking ahead, I aim to pursue **doctoral studies (Ph.D.)**, with the long-term goal of becoming a **research-oriented academic and professor**, focusing on rigorous theory-backed, application-relevant computer science. 👨🏼‍🏫
+Looking ahead, I aim to pursue **doctoral studies (Ph.D.)**, with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
 
 ---
 
@@ -45,7 +39,7 @@ Manuscript under preparation.
 
 ### Short-Term Temperature Prediction using Machine Learning with Explainable-AI (STAT-X)
 
-**Tech:** Python, scikit-learn, NGBoost, SHAP, LIME
+**Tech:** Python, scikit-learn, NGBoost, SHAP, LIME <br>
 **Repo:** [https://github.com/Abhiroop2004/STAT-X](https://github.com/Abhiroop2004/STAT-X)
 
 * Developed supervised ML pipelines for **short-term minimum and maximum temperature forecasting** using multivariate meteorological data.
@@ -58,7 +52,7 @@ Manuscript under preparation.
 
 ### AgroGenie: Crop Recommendation using Machine Learning
 
-**Tech:** Python, scikit-learn, NumPy, Pandas
+**Tech:** Python, scikit-learn, NumPy, Pandas <br>
 **Repo:** [https://github.com/Abhiroop2004/AgroGenie-A-Smart-approach-to-Agriculture-using-Machine-Learning-](https://github.com/Abhiroop2004/AgroGenie-A-Smart-approach-to-Agriculture-using-Machine-Learning-)
 
 * Led a team of five to develop a **machine-learning-based crop recommendation system**.
@@ -71,7 +65,7 @@ Manuscript under preparation.
 
 ### A Python Library for Secret Image Sharing
 
-**Tech:** Python, Galois, PIL, NumPy
+**Tech:** Python, Galois, PIL, NumPy <br>
 **Repo:** [https://github.com/Abhiroop2004/Secret-Image-Sharing](https://github.com/Abhiroop2004/Secret-Image-Sharing)
 
 * Developed a **cryptographically correct Python library** for:
