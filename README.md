@@ -1,55 +1,84 @@
-## About me
-- I am a  3<sup>rd</sup>-year Computer Science undergraduate at [IEM, Kolkata](https://iem.edu.in/), and I am strongly interested in Theoretical Computer Science and Cryptography. I am also interested in applications of Machine Learning in everyday problems. <br>
-- Currently, I am a Long-Term Project Student under [Prof. Avishek Adhikary](https://www.presiuniv.ac.in/web/staff.php?staffid=424) at [Presidency University](https://presiuniv.ac.in/web/), working with integrating segmentation and inpainting techniques from computer vision with Secret Image Sharing. <br>
-Looking ahead, I aspire to pursue higher studies, potentially a Ph.D., with the ultimate goal of becoming a professor in the future. 👨🏼‍🏫
+## About Me
 
-## Selected Papers
-[An Overview of the Discrete Logarithm Problem in Cryptography](https://link.springer.com/chapter/10.1007/978-981-97-4799-3_10)<br>
-A Sarkar, D Guha Roy, P Datta<br>
-International Conference on Advanced Computing and Applications 2024
+I am a **3rd-year Computer Science undergraduate** (B.Tech in CSE – AI & ML) at the **Institute of Engineering & Management (IEM), Kolkata**, with a strong academic focus on **Theoretical Computer Science, Cryptography**, and **Machine Learning for scientific applications**.
 
-[AgroGenie: A Smart Approach to Agriculture Using Machine Learning](https://link.springer.com/chapter/10.1007/978-981-97-9839-1_17)<br>
-A Sarkar, K Ganguly, S Ghosh, D Ghosh, S Saha, P Datta, DG Roy <br>
-International Conference on Information Science and Applications 2024
+I am currently working as a **Research Apprenticeship student under Prof. Dr. Avishek Adhikary** (Department of Mathematics, **Presidency University, Kolkata**), where my work centers on **Visual Cryptography and Secret Image Sharing (SIS)**. My research involves:
 
-[Exploring IoT for real-time CO2 monitoring and analysis](https://arxiv.org/abs/2308.03780)<br>
-A Sarkar, D Ghosh, K Ganguly, S Ghosh, S Saha<br>
-arXiv preprint
+* Re-implementing classical SIS and Visual Cryptography schemes,
+* Designing **lossless (k, n) and (t, k, n) Shamir-based image secret sharing** using finite-field arithmetic,
+* Extending SIS to **Regional Secret Image Sharing** by integrating **image segmentation and deep-learning-based inpainting (LaMa)**.
+
+Alongside cryptography, I actively work on **machine learning for Earth and climate sciences**, particularly **short-term temperature forecasting with explainable and probabilistic ML models**.
+
+Looking ahead, I aim to pursue **doctoral studies (Ph.D.)**, with the long-term goal of becoming a **research-oriented academic and professor**, focusing on rigorous theory-backed, application-relevant computer science. 👨🏼‍🏫
+
+---
+
+## Selected Publications
+
+**STAT-X: Short-term Atmospheric Temperature Forecasting using Machine Learning with Explainable-AI**
+*A. Sarkar, D. Guha Roy, P. Datta*
+**Theoretical and Applied Climatology**, Springer, 2025
+DOI: [https://doi.org/10.1007/s00704-025-05693-8](https://doi.org/10.1007/s00704-025-05693-8)
+
+**AgroGenie: A Smart Approach to Agriculture Using Machine Learning**
+*A. Sarkar, K. Ganguly, S. Ghosh, D. Ghosh, S. Saha, P. Datta, D. Guha Roy*
+**Lecture Notes in Networks and Systems**, Springer, 2024
+DOI: [https://doi.org/10.1007/978-981-97-9839-1_17](https://doi.org/10.1007/978-981-97-9839-1_17)
+
+**An Overview of the Discrete Logarithm Problem in Cryptography**
+*A. Sarkar, D. Guha Roy, P. Datta*
+**Lecture Notes in Networks and Systems**, Springer, 2024
+DOI: [https://doi.org/10.1007/978-981-97-4799-3_10](https://doi.org/10.1007/978-981-97-4799-3_10)
+
+---
+
+## Manuscripts Under Preparation
+
+**Probabilistic Short-Term Temperature Forecasting using Tuned Natural Gradient Boosting Regressor**
+*A. Sarkar, D. Guha Roy, P. Datta*
+Manuscript under preparation.
+
+---
 
 ## Projects
 
-### Aviary.AI - An AI-powered Bird Encyclopedia Chatbot
-- Developed an AI-driven chatbot using Google’s Gemini api key and Langchain framework to provide detailed bird-related information.
-- Integrated Wikipedia API and custom bird encyclopedia PDFs for accurate and diverse data sources using RAG (Retrieval-augmented generation).
-- Code @ [Github](https://github.com/Abhiroop2004/Aviary.AI.git)
-<div style="text-align: center;">
-<img src="assets/birdenc.jpg" width="150" height="150">
-</div>
-<br>
+### Short-Term Temperature Prediction using Machine Learning with Explainable-AI (STAT-X)
 
-### An Overview of the Discrete Logarithm Problem in Cryptography
-- First research experience, including the conception and implementation of a review paper.
-- Learned to **read, understand, and draw conclusions from research papers**.
-- Gained insights into progress in **public-key cryptography** research.
-- Presented the first draft as a [Poster](https://www.researchgate.net/publication/375287849_The_Discrete_Logarithm_Problem).
-- Accepted and Presented in [ICACA-2024](https://csikolkata.org/ICACA2024/). <br>
-<div style="text-align: center;">
-<img src="assets/cryptoart.jfif" width="150" height="150">
-</div>
-<br>
+**Tech:** Python, scikit-learn, NGBoost, SHAP, LIME
+**Repo:** [https://github.com/Abhiroop2004/STAT-X](https://github.com/Abhiroop2004/STAT-X)
 
-### AgroGenie: A smart approach to agriculture using Machine Learning
-- This research involves the utilization of a Machine-learning-based approach to analyze the values of several parameters influencing crop growth. It then accepts a novel set of input parameters and recommends the **most probable crops that can be cultivated**. 
-- Adequate preprocessing methods have been applied to ensure the optimum removal of partiality from data. The ML models have been compared for their performance using a well-accepted validation measure, with **Random Forest** achieving a **99.6%** accuracy. 
-- Then, crops with similar features have been **clustered** to provide more **flexible farming options** for the farmer. <br>
-- Accepted and Presented in [ICISA-2024](https://sites.google.com/view/icisa2024). <br>
-<div style="text-align: center;">
-<img src="assets/agrogenieart.jfif" width="150" height="150">
-</div>
-<br>
+* Developed supervised ML pipelines for **short-term minimum and maximum temperature forecasting** using multivariate meteorological data.
+* Performed extensive **feature engineering** and evaluated **six ML models**, with **Gradient Boosting Regressor** and **MLP** achieving the best performance.
+* Applied **explainable AI (SHAP, LIME)** to identify dominant climatic drivers, improving interpretability and scientific usability.
+* Published in **Springer (Theoretical and Applied Climatology)**.
+* Extended the framework to **probabilistic forecasting** using **NGBoost**, jointly predicting **mean and uncertainty**, with Bayesian hyperparameter tuning and cross-city robustness analysis.
 
-### IoT-based CO2 level monitoring system
-- Worked in a team of 6 designing an IoT-enabled CO2 monitoring system using components such as NodeMCU-**esp8266**, **mq135**(gas sensor), & **dht-11**(temperature & humidity Sensor). Used **ThingSpeak** to plot data from the device.
-- Provides **real-time CO2 level monitoring** in ppm, and **alarms the user** through a buzzer and LED light when the CO2 level exceeds 500 ppm.
-- I worked on writing and debugging the code in Arduino IDE and calibrating the mq135.
-- Link to [ArXiv](https://arxiv.org/abs/2308.03780) Article
+---
+
+### AgroGenie: Crop Recommendation using Machine Learning
+
+**Tech:** Python, scikit-learn, NumPy, Pandas
+**Repo:** [https://github.com/Abhiroop2004/AgroGenie-A-Smart-approach-to-Agriculture-using-Machine-Learning-](https://github.com/Abhiroop2004/AgroGenie-A-Smart-approach-to-Agriculture-using-Machine-Learning-)
+
+* Led a team of five to develop a **machine-learning-based crop recommendation system**.
+* Proposed a **cluster-based crop recommendation strategy**, offering multiple viable crops instead of a single output.
+* Achieved **99.6% accuracy** using **Random Forest with K-fold cross-validation**, combined with **K-means clustering**.
+* Presented at **ICISA 2024** and awarded **2nd Best Paper**.
+* Extended version in progress, comparing **hard and soft clustering algorithms** with formal cluster validation metrics.
+
+---
+
+### A Python Library for Secret Image Sharing
+
+**Tech:** Python, Galois, PIL, NumPy
+**Repo:** [https://github.com/Abhiroop2004/Secret-Image-Sharing](https://github.com/Abhiroop2004/Secret-Image-Sharing)
+
+* Developed a **cryptographically correct Python library** for:
+
+  * (k, n) Visual Cryptography,
+  * Lossless (k, n) and (t, k, n) Shamir’s Secret Sharing on images,
+  * Regional Secret Image Sharing.
+* Ensured **exact reconstruction** using **finite-field arithmetic (order 256)**.
+* Ongoing work integrates **image segmentation and deep-learning-based inpainting** for region-aware secret sharing.
+* Conducted under **Prof. Dr. Avishek Adhikary**, Presidency University.
