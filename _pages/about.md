@@ -1,0 +1,18 @@
+---
+permalink: /
+title: "Hello, I am Abhiroop!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am an incoming **Master of Technology (M.Tech) student in Cryptology and Security** at the [Indian Statistical Institute (ISI), Kolkata](https://www.isical.ac.in/index#). I recently graduated with a B.Tech in Computer Science and Engineering from the Institute of Engineering & Management (IEM), Kolkata. 🎯
+
+My academic focus and research interests lie primarily in **Cryptography**, with an emphasis on number-theoretic cryptography and the domain of secure computation.
+
+🔬 Currently, I am working with a project under the supervision of Prof. Avishek Adhikary at Presidency University, where my work revolves around multi-secret sharing schemes. 
+
+Looking ahead, I aim to pursue doctoral studies (Ph.D.) with the ultimate goal of teaching and assiting others in their academic journey. 👨🏼‍🏫
+
+---
