@@ -23,7 +23,7 @@ repository               : "Abhiroop2004/Abhiroop2004.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png" # filename of profile picture placed in /images/ for the author profile
   name             : "Abhiroop Sarkar"
   pronouns         : # example: "she/her"  
   bio              : "Master's Student at Indian Statistical Institute, Kolkata"
