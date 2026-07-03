@@ -26,9 +26,9 @@ author:
   avatar           : "profile_pic.png" # filename of profile picture placed in /images/ for the author profile
   name             : "Abhiroop Sarkar"
   pronouns         : # example: "she/her"  
-  bio              : "Master's Student in Cryptology and Security"
+  bio              : "Master's Student in Cryptology and Security""
   location         : "Kolkata, India"
-  school           : "Indian Statistical Institute, Kolkata"
+  employer         : "Indian Statistical Institute, Kolkata"
   uri              : # URL
   email            : "abhiroopsarkar2004@gmail.com" 
 
