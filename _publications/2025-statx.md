@@ -1,7 +1,7 @@
 ---
 title: "STAT-X: Short-term Atmospheric Temperature Forecasting using Machine Learning with Explainable-AI"
 collection: publications
-category: manuscripts
+category: Journal Articles
 permalink: /publication/2025-01-01-stat-x
 excerpt: 'This paper presents a machine learning framework incorporating Explainable AI (XAI) techniques to provide accurate and interpretable short-term atmospheric temperature forecasts.'
 date: 2025-01-01
