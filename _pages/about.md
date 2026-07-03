@@ -15,6 +15,6 @@ My interests lie primarily in **Cryptography**, with an emphasis on number-theor
 
 Looking ahead, I aim to pursue doctoral studies (Ph.D.) with the ultimate goal of teaching and assiting others in their academic journey. 👨🏼‍🏫
 
-Apart from this, I also enjoy sketching, and studying public transportation systems, especially buses and railway networks in my free time. 
+I also enjoy sketching, and studying public transportation systems, especially buses and railway networks in my free time. 
 
 ---
