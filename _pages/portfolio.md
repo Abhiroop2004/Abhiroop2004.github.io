@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ### RSA-Based Private Set Intersection
-**Repo:** [GitHub Repository](https://github.com/Abhiroop2004/RSA-PSI)
+**Tech:** Python, secrets, socket, json | **Repo:** [GitHub Repository](https://github.com/Abhiroop2004/RSA-PSI)
 
-A simple Python-based implementation of the Blind RSA-based Private Set Intersection Protocol. It is a basic example of Secure Multi-Party Computation, ensuring two parties can find their intersecting data (modelled as sets) without exposing unshared elements. 
+* A simple Python-based implementation of the Blind RSA-based Private Set Intersection Protocol. 
+* It is a basic example of Secure Multi-Party Computation, ensuring two parties can find their intersecting data (modelled as sets) without exposing unshared elements. 
 
 ---
 
