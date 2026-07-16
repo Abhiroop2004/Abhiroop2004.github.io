@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming **Master of Technology (M.Tech) student in Cryptology and Security** at the [Indian Statistical Institute (ISI), Kolkata](https://www.isical.ac.in/index#). I recently graduated with a B.Tech in Computer Science and Engineering from the Institute of Engineering & Management (IEM), Kolkata. 🎯
+I am an incoming **Master of Technology (M.Tech)** student in **Cryptology and Security** at the [Indian Statistical Institute (ISI), Kolkata](https://www.isical.ac.in/index#). I recently graduated with a B.Tech in Computer Science and Engineering from the Institute of Engineering & Management (IEM), Kolkata. 🎯
 
 My interests lie primarily in **Cryptography**, with an emphasis on number-theoretic cryptography and the domain of secure computation especially [Secure multiparty computation (MPC)](https://github.com/rdragos/awesome-mpc).
 
